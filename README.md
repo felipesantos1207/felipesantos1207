@@ -23,9 +23,11 @@ Each day I learn something new and apply it to personal projects.
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ---
 
+---
+
 ## 📚 Currently Learning
 
-I’m actively improving my skills with the following professional courses:
+I’m actively improving my skills to become a **Data & Business Analyst**, through the following professional courses:
 
 - [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)
 - [Formação em Ciência de Dados (Udemy)](https://www.udemy.com/course/formacao-em-ciencia-de-dados/)
@@ -35,8 +37,7 @@ I’m actively improving my skills with the following professional courses:
 
 ![Coursera](https://img.shields.io/badge/Coursera-Google%20Data%20Analytics-blue?logo=coursera&logoColor=white&style=flat)
 ![Udemy](https://img.shields.io/badge/Udemy-Data%20Science%20Formation-a435f0?logo=udemy&logoColor=white&style=flat)
-
----
+![Business Analyst](https://img.shields.io/badge/Path-Business%20Analyst-success?logo=google&style=flat)
 
 ## 📂 Projects Highlights
 
