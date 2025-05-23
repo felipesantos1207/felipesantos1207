@@ -21,6 +21,20 @@ Each day I learn something new and apply it to personal projects.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+---
+
+## 📚 Currently Learning
+
+I’m actively improving my skills with the following professional courses:
+
+- [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Formação em Ciência de Dados (Udemy)](https://www.udemy.com/course/formacao-em-ciencia-de-dados/)
+- Foundations of Business Intelligence (Coursera)
+
+### 🎓 Learning Platforms
+
+![Coursera](https://img.shields.io/badge/Coursera-Google%20Data%20Analytics-blue?logo=coursera&logoColor=white&style=flat)
+![Udemy](https://img.shields.io/badge/Udemy-Data%20Science%20Formation-a435f0?logo=udemy&logoColor=white&style=flat)
 
 ---
 
