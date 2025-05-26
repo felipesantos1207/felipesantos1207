@@ -1,7 +1,5 @@
 
-# 👋 Hi, I'm Felipe Santos
-
-![Felipe Santos Banner](./banner-felipe-santos.png)
+# 👋 Hi, I'm Felipe 
 
 🎯 **Aspiring Data & Business Analyst** based in Ireland  
 💼 Background in HR & Psychology | Transitioning to Tech  
